@@ -251,7 +251,7 @@ export default function SmartAgriPlatform() {
               </div>
               <div>
                 <h1 className={`text-2xl font-bold ${darkMode ? "text-white" : "text-gray-800"}`}>GreenGrids</h1>
-                <p className={`text-sm ${darkMode ? "text-gray-300" : "text-gray-600"}`}>AI-Powered Farming Platform</p>
+                <p className={`text-sm ${darkMode ? "text-gray-300" : "text-gray-600"}`}>AI-Powered Farming </p>
               </div>
             </div>
             <div className="flex items-center space-x-4">
